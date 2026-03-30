@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
+  "discord": {
+    "clientId": "1086936373057040395",
+    "smallImageText": "Helios Launcher",
+    "smallImageKey": "big"
+  },
+  "servers": [
+    {
+      "id": "Helios-1.20-Forge",
+      "name": "Helios Server (Moddé)",
+      "description": "Minecraft 1.20 Forge (Optimisé Java 17)",
+      "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.20/Demo-1.20.png",
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.20",
+      "mainServer": true,
+      "autoconnect": false,
+
+      "discord": {
+        "shortId": "Helios",
+        "largeImageKey": "big",
+        "largeImageText": "Forge 1.20 Modded"
+      },
+
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.20-46.0.2",
+          "name": "Minecraft Forge",
+          "type": "ForgeHosted",
+          "classpath": true,
+          "artifact": {
+            "size": 2612080,
+            "MD5": "5dd29a134bd8f6135417bacb5e36408e",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/forge/1.20-46.0.2/forge-1.20-46.0.2-universal.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20-46.0.2",
+              "name": "Forge Version",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 15970,
+                "MD5": "1125883344968dbbe14e74cf3ad2b5e8",
+                "url": "https://helios-files.geekcorner.eu.org/repo/versions/1.20-forge-46.0.2/1.20-forge-46.0.2.json"
+              }
+            }
+          ]
+        }
+
+        /* 👉 ICI TU AJOUTES TES MODS */
+
+      ]
+    }
+  ]
+}
