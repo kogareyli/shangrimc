@@ -1,7 +1,7 @@
 {
   "name": "ShangriMc",
   "version": "2.2.1",
-  "productName": "ShangriMc Launcher",
+  "productName": "ShangriMc",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) and koga",
   "license": "UNLICENSED",
@@ -41,8 +41,8 @@
   },
   "devDependencies": {
     "@stylistic/eslint-plugin": "^5.6.1",
-    "electron": "^39.2.7",
-    "electron-builder": "^26.4.0",
+    "electron": "^28.3.3",
+    "electron-builder": "24.6.4",
     "eslint": "^9.39.2"
   },
   "repository": {
