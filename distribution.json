@@ -1,39 +1,26 @@
 {
   "version": "1.0.0",
-  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
-  "discord": {
-    "clientId": "1086936373057040395",
-    "smallImageText": "Helios Launcher",
-    "smallImageKey": "big"
-  },
   "servers": [
     {
-      "id": "Helios-1.20-Forge",
-      "name": "Helios Server (Moddé)",
-      "description": "Minecraft 1.20 Forge (Optimisé Java 17)",
-      "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.20/Demo-1.20.png",
+      "id": "shangrimc",
+      "name": "ShangriMC",
+      "description": "Forge 1.20 Stable",
+      "icon": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/icon.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.20",
       "mainServer": true,
-      "autoconnect": false,
-
-      "discord": {
-        "shortId": "Helios",
-        "largeImageKey": "big",
-        "largeImageText": "Forge 1.20 Modded"
-      },
 
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.20-46.0.2",
-          "name": "Minecraft Forge",
+          "id": "net.minecraftforge:lowcodelanguage:1.20-46.0.2",
+          "name": "Forge Loader",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 2612080,
-            "MD5": "5dd29a134bd8f6135417bacb5e36408e",
-            "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/forge/1.20-46.0.2/forge-1.20-46.0.2-universal.jar"
+            "size": 7400,
+            "MD5": "4a69374eb645771ddb0387a9076b450f",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/lowcodelanguage/1.20-46.0.2/lowcodelanguage-1.20-46.0.2.jar"
           },
           "subModules": [
             {
@@ -48,9 +35,6 @@
             }
           ]
         }
-
-        /* 👉 ICI TU AJOUTES TES MODS */
-
       ]
     }
   ]
