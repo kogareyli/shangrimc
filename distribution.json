@@ -1,9 +1,6 @@
 {
-  "version": "1.0.0",
-  "servers": [
-{
   "id": "net.minecraftforge:lowcodelanguage:1.20-46.0.2",
-  "name": "Forge Loader",
+  "name": "Minecraft Forge (lowcodelanguage)",
   "type": "ForgeHosted",
   "classpath": true,
   "artifact": {
@@ -14,12 +11,55 @@
   "subModules": [
     {
       "id": "1.20-46.0.2",
-      "name": "Forge Version",
+      "name": "Minecraft Forge (version.json)",
       "type": "VersionManifest",
       "artifact": {
         "size": 15970,
         "MD5": "1125883344968dbbe14e74cf3ad2b5e8",
         "url": "https://helios-files.geekcorner.eu.org/repo/versions/1.20-forge-46.0.2/1.20-forge-46.0.2.json"
+      }
+    },
+    {
+      "id": "net.minecraftforge:fmlcore:1.20-46.0.2",
+      "name": "Minecraft Forge (fmlcore)",
+      "type": "Library",
+      "classpath": true,
+      "artifact": {
+        "size": 116123,
+        "MD5": "bac94c804729e0952c84a2e863ad2269",
+        "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/fmlcore/1.20-46.0.2/fmlcore-1.20-46.0.2.jar"
+      }
+    },
+    {
+      "id": "net.minecraftforge:javafmllanguage:1.20-46.0.2",
+      "name": "Minecraft Forge (javafmllanguage)",
+      "type": "Library",
+      "classpath": true,
+      "artifact": {
+        "size": 16374,
+        "MD5": "3b25d656c3a0fb057ed308a33ce43c29",
+        "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/javafmllanguage/1.20-46.0.2/javafmllanguage-1.20-46.0.2.jar"
+      }
+    },
+    {
+      "id": "net.minecraftforge:mclanguage:1.20-46.0.2",
+      "name": "Minecraft Forge (mclanguage)",
+      "type": "Library",
+      "classpath": true,
+      "artifact": {
+        "size": 5000,
+        "MD5": "d0eb5fff9d92efcb43b8d708298cc483",
+        "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/mclanguage/1.20-46.0.2/mclanguage-1.20-46.0.2.jar"
+      }
+    },
+    {
+      "id": "net.minecraftforge:fmlloader:1.20-46.0.2",
+      "name": "Minecraft Forge (fmlloader)",
+      "type": "Library",
+      "artifact": {
+        "size": 261464,
+        "MD5": "99825c1cc845cf542284efa122e1b96e",
+        "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/fmlloader/1.20-46.0.2/fmlloader-1.20-46.0.2.jar"
       }
     }
   ]
