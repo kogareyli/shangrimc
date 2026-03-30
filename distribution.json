@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "Demo-1.19.4",
-      "name": "Demo (Minecraft 1.19.4)",
-      "description": "Demo Running Minecraft 1.19.4 (Forge v45.0.9)",
+      "id": "ShangriMC",
+      "name": "ShangriMC",
+      "description": "ShangriMC",
       "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.19.4/Demo-1.19.4.png",
       "version": "1.0.0",
       "address": "localhost:25565",
