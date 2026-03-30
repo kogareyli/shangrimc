@@ -1,42 +1,153 @@
 {
   "version": "1.0.0",
+  "rss": "https://helios-files.geekcorner.eu.org/rss.xml",
+  "discord": {
+    "clientId": "1086936373057040395",
+    "smallImageText": "Change me through Nebula",
+    "smallImageKey": "big"
+  },
   "servers": [
     {
-      "id": "shangrimc",
-      "name": "ShangriMC",
-      "description": "Forge 1.20",
-      "icon": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/icon.png",
+      "id": "Demo-1.19.4",
+      "name": "Demo (Minecraft 1.19.4)",
+      "description": "Demo Running Minecraft 1.19.4 (Forge v45.0.9)",
+      "icon": "https://helios-files.geekcorner.eu.org/servers/Demo-1.19.4/Demo-1.19.4.png",
       "version": "1.0.0",
       "address": "localhost:25565",
-      "minecraftVersion": "1.20",
-      "mainServer": true,
+      "minecraftVersion": "1.19.4",
+      "discord": {
+        "shortId": "1.19.4 Demo",
+        "largeImageKey": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/build/icon.png",
+        "largeImageText": "forge-vanilla"
+      },
+      "mainServer": false,
       "autoconnect": false,
-
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20-46.0.2",
-          "name": "Forge",
+          "id": "net.minecraftforge:lowcodelanguage:1.19.4-45.0.9",
+          "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7400,
-            "MD5": "4a69374eb645771ddb0387a9076b450f",
-            "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/lowcodelanguage/1.20-46.0.2/lowcodelanguage-1.20-46.0.2.jar"
+            "size": 7378,
+            "MD5": "567726c42a1312962ffd96af646f227d",
+            "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/lowcodelanguage/1.19.4-45.0.9/lowcodelanguage-1.19.4-45.0.9.jar"
           },
           "subModules": [
             {
-              "id": "1.20-46.0.2",
-              "name": "Forge Version",
+              "id": "1.19.4-45.0.9",
+              "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 15970,
-                "MD5": "1125883344968dbbe14e74cf3ad2b5e8",
-                "url": "https://helios-files.geekcorner.eu.org/repo/versions/1.20-forge-46.0.2/1.20-forge-46.0.2.json"
+                "size": 15497,
+                "MD5": "97924bf1d3bf6f2bc4acc5662a7fecc0",
+                "url": "https://helios-files.geekcorner.eu.org/repo/versions/1.19.4-forge-45.0.9/1.19.4-forge-45.0.9.json"
               }
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.19.4-45.0.9",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 113254,
+                "MD5": "087a7175f26ebce8dee27cc75ab706a6",
+                "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/fmlcore/1.19.4-45.0.9/fmlcore-1.19.4-45.0.9.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.19.4-45.0.9",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16352,
+                "MD5": "85f5a466356973b9a9199f5a5b1d1a25",
+                "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/javafmllanguage/1.19.4-45.0.9/javafmllanguage-1.19.4-45.0.9.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.19.4-45.0.9",
+              "name": "Minecraft Forge (mclanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 4987,
+                "MD5": "2afe8c6ba41599bbc139607e1f5bc90f",
+                "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/mclanguage/1.19.4-45.0.9/mclanguage-1.19.4-45.0.9.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.19.4-45.0.9:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 2654813,
+                "MD5": "75086169e9f5f6990cd399ae352590da",
+                "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/forge/1.19.4-45.0.9/forge-1.19.4-45.0.9-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.19.4-45.0.9:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 5416831,
+                "MD5": "db21cc95ee603f0dc4e7bce8af5d1f5c",
+                "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraftforge/forge/1.19.4-45.0.9/forge-1.19.4-45.0.9-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.19.4-20230314.122934:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 18578667,
+                "MD5": "500a7127781d84a24d65f110479538f3",
+                "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraft/client/1.19.4-20230314.122934/client-1.19.4-20230314.122934-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.19.4-20230314.122934:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 12410103,
+                "MD5": "764989b8230caa18e97f90799f902650",
+                "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraft/client/1.19.4-20230314.122934/client-1.19.4-20230314.122934-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.19.4-20230314.122934:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 11066539,
+                "MD5": "e612fd0d646100ae60158ba37c5aa71a",
+                "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/minecraft/client/1.19.4-20230314.122934/client-1.19.4-20230314.122934-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:securejarhandler:2.1.6",
+              "name": "Minecraft Forge (securejarhandler)",
+              "type": "Library",
+              "artifact": {
+                "size": 87783,
+                "MD5": "8a4e7e2770d7147d7551d1f3ad835baa",
+                "url": "https://helios-files.geekcorner.eu.org/repo/lib/cpw/mods/securejarhandler/2.1.6/securejarhandler-2.1.6.jar"
+              }
+            },
+            {
