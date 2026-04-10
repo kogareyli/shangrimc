@@ -30,7 +30,19 @@
             "size": 8835110,
             "MD5": "f3dcf8197c22e3f8ba717dbbbfe74ec6",
             "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/forge-1.20.1-47.4.20-installer.jar"
-          }
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-47.4.20",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 16629,
+                "MD5": "164e2a500d5c3ba06ddb5da9d64c4f3d",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/forge-1.20.1-47.4.20-version.json"
+              }
+            }
+          ]
         },
         {
           "id": "mods:AI-Improvements-1.20-0.5.2",
