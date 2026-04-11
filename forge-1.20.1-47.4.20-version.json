@@ -10,9 +10,7 @@
     "type": "release",
     "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
     "inheritsFrom": "1.20.1",
-    "logging": {
-        
-    },
+    "logging": {},
     "arguments": {
         "game": [
             "--launchTarget",
@@ -28,11 +26,11 @@
         ],
         "jvm": [
             "-Djava.net.preferIPv6Addresses=system",
-            "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar",
+            "-DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar,modlauncher,jopt-simple,log4j-api",
             "-DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar",
             "-DlibraryDirectory=${library_directory}",
             "-p",
-            "${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar${classpath_separator}${library_directory}/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar${classpath_separator}${library_directory}/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar${classpath_separator}${library_directory}/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar${classpath_separator}${library_directory}/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.9.1/asm-commons-9.9.1.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.9.1/asm-util-9.9.1.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.9.1/asm-analysis-9.9.1.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.9.1/asm-tree-9.9.1.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar",
+            "${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar${classpath_separator}${library_directory}/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.9.1/asm-commons-9.9.1.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.9.1/asm-util-9.9.1.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.9.1/asm-analysis-9.9.1.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.9.1/asm-tree-9.9.1.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.9.1/asm-9.9.1.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar${classpath_separator}${library_directory}/org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar",
             "--add-modules",
             "ALL-MODULE-PATH",
             "--add-opens",
@@ -355,4 +353,15 @@
             }
         },
         {
-            "name": "net.minecraftforge:fmlearlydisplay:1.20.
+            "name": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.20",
+            "downloads": {
+                "artifact": {
+                    "path": "net/minecraftforge/fmlearlydisplay/1.20.1-47.4.20/fmlearlydisplay-1.20.1-47.4.20.jar",
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.20/fmlearlydisplay-1.20.1-47.4.20.jar",
+                    "sha1": "4dcdfb740aff35b40a3471708ca8a5f1e22a9504",
+                    "size": 170513
+                }
+            }
+        }
+    ]
+}
