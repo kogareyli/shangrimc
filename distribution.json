@@ -45,7 +45,7 @@
           ]
         },
         {
-          "id": "mods:AI-Improvements-1.20-0.5.2",
+          "id": "mods:ai-improvements:0.5.2",
           "name": "AI-Improvements-1.20-0.5.2",
           "type": "ForgeMod",
           "artifact": {
@@ -55,7 +55,7 @@
           }
         },
         {
-          "id": "mods:Apotheosis-1.20.1-7.4.8",
+          "id": "mods:apotheosis:7.4.8",
           "name": "Apotheosis-1.20.1-7.4.8",
           "type": "ForgeMod",
           "artifact": {
@@ -65,7 +65,7 @@
           }
         },
         {
-          "id": "mods:ApothicAttributes-1.20.1-1.3.7",
+          "id": "mods:apothicattributes:1.3.7",
           "name": "ApothicAttributes-1.20.1-1.3.7",
           "type": "ForgeMod",
           "artifact": {
@@ -75,7 +75,7 @@
           }
         },
         {
-          "id": "mods:Auroras-1.20.1-1.6.2",
+          "id": "mods:auroras:1.6.2",
           "name": "Auroras-1.20.1-1.6.2",
           "type": "ForgeMod",
           "artifact": {
@@ -85,7 +85,7 @@
           }
         },
         {
-          "id": "mods:AutoSave-1.0",
+          "id": "mods:autosave:1.0",
           "name": "AutoSave-1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -95,7 +95,7 @@
           }
         },
         {
-          "id": "mods:Croptopia-1.20.1-FORGE-3.0.4",
+          "id": "mods:croptopia:3.0.4",
           "name": "Croptopia-1.20.1-FORGE-3.0.4",
           "type": "ForgeMod",
           "artifact": {
@@ -105,7 +105,7 @@
           }
         },
         {
-          "id": "mods:CroptopiaAdditions-1.20.1-FORGE-2.4",
+          "id": "mods:croptopiaadditions:2.4",
           "name": "CroptopiaAdditions-1.20.1-FORGE-2.4",
           "type": "ForgeMod",
           "artifact": {
@@ -115,7 +115,7 @@
           }
         },
         {
-          "id": "mods:CustomPlayerModels-1.20-0.6.25a",
+          "id": "mods:customplayermodels:0.6.25a",
           "name": "CustomPlayerModels-1.20-0.6.25a",
           "type": "ForgeMod",
           "artifact": {
@@ -125,7 +125,7 @@
           }
         },
         {
-          "id": "mods:DungeonsAriseSevenSeas-1.20.x-1.0.2-forge",
+          "id": "mods:dungeonsarisesevenseas:1.0.2",
           "name": "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge",
           "type": "ForgeMod",
           "artifact": {
@@ -135,7 +135,7 @@
           }
         },
         {
-          "id": "mods:DustyDecorations_1.20.1Forge_V1.12.1",
+          "id": "mods:dustydecorations:1.12.1",
           "name": "DustyDecorations_1.20.1Forge_V1.12.1",
           "type": "ForgeMod",
           "artifact": {
@@ -145,7 +145,7 @@
           }
         },
         {
-          "id": "mods:EpheroLib-1.20.1-FORGE-1.2.0",
+          "id": "mods:epherolib:1.2.0",
           "name": "EpheroLib-1.20.1-FORGE-1.2.0",
           "type": "ForgeMod",
           "artifact": {
@@ -155,7 +155,7 @@
           }
         },
         {
-          "id": "mods:GlitchCore-forge-1.20.1-0.0.1.1",
+          "id": "mods:glitchcore:0.0.1.1",
           "name": "GlitchCore-forge-1.20.1-0.0.1.1",
           "type": "ForgeMod",
           "artifact": {
@@ -165,7 +165,7 @@
           }
         },
         {
-          "id": "mods:ImmersiveUI-FORGE-0.3.0",
+          "id": "mods:immersiveui:0.3.0",
           "name": "ImmersiveUI-FORGE-0.3.0",
           "type": "ForgeMod",
           "artifact": {
@@ -175,7 +175,7 @@
           }
         },
         {
-          "id": "mods:LuckPerms-Forge-5.4.102",
+          "id": "mods:luckperms:5.4.102",
           "name": "LuckPerms-Forge-5.4.102",
           "type": "ForgeMod",
           "artifact": {
@@ -185,7 +185,7 @@
           }
         },
         {
-          "id": "mods:OctoLib-FORGE-0.5.0.1+1.20.1",
+          "id": "mods:octolib:0.5.0.1",
           "name": "OctoLib-FORGE-0.5.0.1+1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -195,7 +195,7 @@
           }
         },
         {
-          "id": "mods:ParCool-1.20.1-3.4.3.3",
+          "id": "mods:parcool:3.4.3.3",
           "name": "ParCool-1.20.1-3.4.3.3",
           "type": "ForgeMod",
           "artifact": {
@@ -205,7 +205,7 @@
           }
         },
         {
-          "id": "mods:Perception-FORGE-0.1.4+1.20.1",
+          "id": "mods:perception:0.1.4",
           "name": "Perception-FORGE-0.1.4+1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -215,7 +215,7 @@
           }
         },
         {
-          "id": "mods:Placebo-1.20.1-8.6.3",
+          "id": "mods:placebo:8.6.3",
           "name": "Placebo-1.20.1-8.6.3",
           "type": "ForgeMod",
           "artifact": {
@@ -225,7 +225,7 @@
           }
         },
         {
-          "id": "mods:RegionsUnexploredForge-0.5.6+1.20.1",
+          "id": "mods:regionsunexplored:0.5.6",
           "name": "RegionsUnexploredForge-0.5.6+1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -235,7 +235,7 @@
           }
         },
         {
-          "id": "mods:Structory_1.20.x_v1.3.5",
+          "id": "mods:structory:1.3.5",
           "name": "Structory_1.20.x_v1.3.5",
           "type": "ForgeMod",
           "artifact": {
@@ -245,7 +245,7 @@
           }
         },
         {
-          "id": "mods:TerraBlender-forge-1.20.1-3.0.1.10",
+          "id": "mods:terrablender:3.0.1.10",
           "name": "TerraBlender-forge-1.20.1-3.0.1.10",
           "type": "ForgeMod",
           "artifact": {
@@ -255,7 +255,7 @@
           }
         },
         {
-          "id": "mods:Terralith_1.20.x_v2.5.4",
+          "id": "mods:terralith:2.5.4",
           "name": "Terralith_1.20.x_v2.5.4",
           "type": "ForgeMod",
           "artifact": {
@@ -265,7 +265,7 @@
           }
         },
         {
-          "id": "mods:YungsApi-1.20-Forge-4.0.6",
+          "id": "mods:yungsapi:4.0.6",
           "name": "YungsApi-1.20-Forge-4.0.6",
           "type": "ForgeMod",
           "artifact": {
@@ -275,7 +275,7 @@
           }
         },
         {
-          "id": "mods:YungsBetterDesertTemples-1.20-Forge-3.0.3",
+          "id": "mods:yungsbetterdeserttemples:3.0.3",
           "name": "YungsBetterDesertTemples-1.20-Forge-3.0.3",
           "type": "ForgeMod",
           "artifact": {
@@ -285,7 +285,7 @@
           }
         },
         {
-          "id": "mods:aestheticwindows-1.20.1_forge_v2.0.1",
+          "id": "mods:aestheticwindows:2.0.1",
           "name": "aestheticwindows-1.20.1_forge_v2.0.1",
           "type": "ForgeMod",
           "artifact": {
@@ -295,7 +295,7 @@
           }
         },
         {
-          "id": "mods:alcocraftplus-1.20-2.1.0-forge",
+          "id": "mods:alcocraftplus:2.1.0",
           "name": "alcocraftplus-1.20-2.1.0-forge",
           "type": "ForgeMod",
           "artifact": {
@@ -305,7 +305,7 @@
           }
         },
         {
-          "id": "mods:architectury-9.2.14-forge",
+          "id": "mods:architectury:9.2.14",
           "name": "architectury-9.2.14-forge",
           "type": "ForgeMod",
           "artifact": {
@@ -315,7 +315,7 @@
           }
         },
         {
-          "id": "mods:armourersworkshop-forge-1.20.1-3.2.7-beta",
+          "id": "mods:armourersworkshop:3.2.7",
           "name": "armourersworkshop-forge-1.20.1-3.2.7-beta",
           "type": "ForgeMod",
           "artifact": {
@@ -325,7 +325,7 @@
           }
         },
         {
-          "id": "mods:artifacts-forge-9.5.16",
+          "id": "mods:artifacts:9.5.16",
           "name": "artifacts-forge-9.5.16",
           "type": "ForgeMod",
           "artifact": {
@@ -335,7 +335,7 @@
           }
         },
         {
-          "id": "mods:balm-forge-1.20.1-7.3.38-all",
+          "id": "mods:balm:7.3.38",
           "name": "balm-forge-1.20.1-7.3.38-all",
           "type": "ForgeMod",
           "artifact": {
@@ -345,7 +345,7 @@
           }
         },
         {
-          "id": "mods:bettercombat-forge-1.9.0+1.20.1",
+          "id": "mods:bettercombat:1.9.0",
           "name": "bettercombat-forge-1.9.0+1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -355,7 +355,7 @@
           }
         },
         {
-          "id": "mods:betterfruits-0.1-forge-1.20.1",
+          "id": "mods:betterfruits:0.1",
           "name": "betterfruits-0.1-forge-1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -365,7 +365,7 @@
           }
         },
         {
-          "id": "mods:biomemusic-1.20.1-3.5",
+          "id": "mods:biomemusic:3.5",
           "name": "biomemusic-1.20.1-3.5",
           "type": "ForgeMod",
           "artifact": {
@@ -375,7 +375,7 @@
           }
         },
         {
-          "id": "mods:blossom",
+          "id": "mods:blossom:1.0",
           "name": "blossom",
           "type": "ForgeMod",
           "artifact": {
@@ -385,7 +385,7 @@
           }
         },
         {
-          "id": "mods:celestisynth-1.20.1-1.3.4-all",
+          "id": "mods:celestisynth:1.3.4",
           "name": "celestisynth-1.20.1-1.3.4-all",
           "type": "ForgeMod",
           "artifact": {
@@ -395,7 +395,7 @@
           }
         },
         {
-          "id": "mods:citadel-2.6.3-1.20.1(1)",
+          "id": "mods:citadel:2.6.3",
           "name": "citadel-2.6.3-1.20.1(1)",
           "type": "ForgeMod",
           "artifact": {
@@ -405,7 +405,7 @@
           }
         },
         {
-          "id": "mods:cloth-config-11.1.136-forge",
+          "id": "mods:cloth-config:11.1.136",
           "name": "cloth-config-11.1.136-forge",
           "type": "ForgeMod",
           "artifact": {
@@ -415,7 +415,7 @@
           }
         },
         {
-          "id": "mods:collective-1.20.1-8.13",
+          "id": "mods:collective:8.13",
           "name": "collective-1.20.1-8.13",
           "type": "ForgeMod",
           "artifact": {
@@ -425,7 +425,7 @@
           }
         },
         {
-          "id": "mods:cupboard-1.20.1-3.5",
+          "id": "mods:cupboard:3.5",
           "name": "cupboard-1.20.1-3.5",
           "type": "ForgeMod",
           "artifact": {
@@ -435,7 +435,7 @@
           }
         },
         {
-          "id": "mods:curios-forge-5.14.1+1.20.1",
+          "id": "mods:curios:5.14.1",
           "name": "curios-forge-5.14.1+1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -445,7 +445,7 @@
           }
         },
         {
-          "id": "mods:decorative_blocks-forge-1.20.1-4.1.3",
+          "id": "mods:decorative-blocks:4.1.3",
           "name": "decorative_blocks-forge-1.20.1-4.1.3",
           "type": "ForgeMod",
           "artifact": {
@@ -455,7 +455,7 @@
           }
         },
         {
-          "id": "mods:easy_npc-forge-1.20.1-6.11.0",
+          "id": "mods:easy-npc:6.11.0",
           "name": "easy_npc-forge-1.20.1-6.11.0",
           "type": "ForgeMod",
           "artifact": {
@@ -465,7 +465,7 @@
           }
         },
         {
-          "id": "mods:easy_npc_bundle-forge-1.20.1-6.11.0",
+          "id": "mods:easy-npc-bundle:6.11.0",
           "name": "easy_npc_bundle-forge-1.20.1-6.11.0",
           "type": "ForgeMod",
           "artifact": {
@@ -475,7 +475,7 @@
           }
         },
         {
-          "id": "mods:easy_npc_config_ui-forge-1.20.1-6.11.0",
+          "id": "mods:easy-npc-config-ui:6.11.0",
           "name": "easy_npc_config_ui-forge-1.20.1-6.11.0",
           "type": "ForgeMod",
           "artifact": {
@@ -485,7 +485,7 @@
           }
         },
         {
-          "id": "mods:ecologics-forge-1.20.1-2.2.4",
+          "id": "mods:ecologics:2.2.4",
           "name": "ecologics-forge-1.20.1-2.2.4",
           "type": "ForgeMod",
           "artifact": {
@@ -495,7 +495,7 @@
           }
         },
         {
-          "id": "mods:enhanced_boss_bars-1.20.1-1.0.0",
+          "id": "mods:enhanced-boss-bars:1.0.0",
           "name": "enhanced_boss_bars-1.20.1-1.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -505,7 +505,7 @@
           }
         },
         {
-          "id": "mods:epic x parcool-forge-20.12.0.1-1.20.1(1)",
+          "id": "mods:epic-x-parcool:20.12.0.1",
           "name": "epic x parcool-forge-20.12.0.1-1.20.1(1)",
           "type": "ForgeMod",
           "artifact": {
@@ -515,7 +515,7 @@
           }
         },
         {
-          "id": "mods:epic-fight-20.14.14-mc1.20.1-forge",
+          "id": "mods:epic-fight:20.14.14",
           "name": "epic-fight-20.14.14-mc1.20.1-forge",
           "type": "ForgeMod",
           "artifact": {
@@ -525,7 +525,7 @@
           }
         },
         {
-          "id": "mods:fancymenu_forge_2.14.7-3_MC_1.20",
+          "id": "mods:fancymenu:2.14.7",
           "name": "fancymenu_forge_2.14.7-3_MC_1.20",
           "type": "ForgeMod",
           "artifact": {
@@ -535,7 +535,7 @@
           }
         },
         {
-          "id": "mods:fantasy_armor-forge-1.2.3-1.20.1",
+          "id": "mods:fantasy-armor:1.2.3",
           "name": "fantasy_armor-forge-1.2.3-1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -545,7 +545,7 @@
           }
         },
         {
-          "id": "mods:ferritecore-6.0.1-forge",
+          "id": "mods:ferritecore:6.0.1",
           "name": "ferritecore-6.0.1-forge",
           "type": "ForgeMod",
           "artifact": {
@@ -555,7 +555,7 @@
           }
         },
         {
-          "id": "mods:ftb-library-forge-2001.2.12",
+          "id": "mods:ftb-library:2001.2.12",
           "name": "ftb-library-forge-2001.2.12",
           "type": "ForgeMod",
           "artifact": {
@@ -565,7 +565,7 @@
           }
         },
         {
-          "id": "mods:ftb-quests-forge-2001.4.18",
+          "id": "mods:ftb-quests:2001.4.18",
           "name": "ftb-quests-forge-2001.4.18",
           "type": "ForgeMod",
           "artifact": {
@@ -575,7 +575,7 @@
           }
         },
         {
-          "id": "mods:ftb-teams-forge-2001.3.2",
+          "id": "mods:ftb-teams:2001.3.2",
           "name": "ftb-teams-forge-2001.3.2",
           "type": "ForgeMod",
           "artifact": {
@@ -585,7 +585,7 @@
           }
         },
         {
-          "id": "mods:ftb-xmod-compat-forge-2.1.3",
+          "id": "mods:ftb-xmod-compat:2.1.3",
           "name": "ftb-xmod-compat-forge-2.1.3",
           "type": "ForgeMod",
           "artifact": {
@@ -595,7 +595,7 @@
           }
         },
         {
-          "id": "mods:geckolib-forge-1.20.1-4.8.3",
+          "id": "mods:geckolib:4.8.3",
           "name": "geckolib-forge-1.20.1-4.8.3",
           "type": "ForgeMod",
           "artifact": {
@@ -605,7 +605,7 @@
           }
         },
         {
-          "id": "mods:handcrafted-forge-1.20.1-3.0.6",
+          "id": "mods:handcrafted:3.0.6",
           "name": "handcrafted-forge-1.20.1-3.0.6",
           "type": "ForgeMod",
           "artifact": {
@@ -615,7 +615,7 @@
           }
         },
         {
-          "id": "mods:immersivelanterns-forge-1.0.6-1.20.1",
+          "id": "mods:immersivelanterns:1.0.6",
           "name": "immersivelanterns-forge-1.0.6-1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -625,7 +625,7 @@
           }
         },
         {
-          "id": "mods:jei-1.20.1-forge-15.20.0.129",
+          "id": "mods:jei:15.20.0.129",
           "name": "jei-1.20.1-forge-15.20.0.129",
           "type": "ForgeMod",
           "artifact": {
@@ -635,7 +635,7 @@
           }
         },
         {
-          "id": "mods:konkrete_forge_1.8.0_MC_1.20-1.20.1",
+          "id": "mods:konkrete:1.8.0",
           "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -645,7 +645,7 @@
           }
         },
         {
-          "id": "mods:letsdo-API-forge-1.2.15-forge",
+          "id": "mods:letsdo-api:1.2.15",
           "name": "letsdo-API-forge-1.2.15-forge",
           "type": "ForgeMod",
           "artifact": {
@@ -655,7 +655,7 @@
           }
         },
         {
-          "id": "mods:letsdo-bakery-forge-1.1.15",
+          "id": "mods:letsdo-bakery:1.1.15",
           "name": "letsdo-bakery-forge-1.1.15",
           "type": "ForgeMod",
           "artifact": {
@@ -665,7 +665,7 @@
           }
         },
         {
-          "id": "mods:letsdo-brewery-forge-1.1.9",
+          "id": "mods:letsdo-brewery:1.1.9",
           "name": "letsdo-brewery-forge-1.1.9",
           "type": "ForgeMod",
           "artifact": {
@@ -675,7 +675,7 @@
           }
         },
         {
-          "id": "mods:letsdo-furniture-forge-1.0.4",
+          "id": "mods:letsdo-furniture:1.0.4",
           "name": "letsdo-furniture-forge-1.0.4",
           "type": "ForgeMod",
           "artifact": {
@@ -685,7 +685,7 @@
           }
         },
         {
-          "id": "mods:lionfishapi-2.4-Fix",
+          "id": "mods:lionfishapi:2.4",
           "name": "lionfishapi-2.4-Fix",
           "type": "ForgeMod",
           "artifact": {
@@ -695,7 +695,7 @@
           }
         },
         {
-          "id": "mods:lukis-grand-capitals-1.1.3",
+          "id": "mods:lukis-grand-capitals:1.1.3",
           "name": "lukis-grand-capitals-1.1.3",
           "type": "ForgeMod",
           "artifact": {
@@ -705,7 +705,7 @@
           }
         },
         {
-          "id": "mods:mcw-lights-1.1.5-mc1.20.1forge",
+          "id": "mods:mcw-lights:1.1.5",
           "name": "mcw-lights-1.1.5-mc1.20.1forge",
           "type": "ForgeMod",
           "artifact": {
@@ -715,7 +715,7 @@
           }
         },
         {
-          "id": "mods:mcw-mcwfences-1.2.1-mc1.20.1forge",
+          "id": "mods:mcw-fences:1.2.1",
           "name": "mcw-mcwfences-1.2.1-mc1.20.1forge",
           "type": "ForgeMod",
           "artifact": {
@@ -725,7 +725,7 @@
           }
         },
         {
-          "id": "mods:modernfix-forge-5.26.2+mc1.20.1",
+          "id": "mods:modernfix:5.26.2",
           "name": "modernfix-forge-5.26.2+mc1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -735,7 +735,7 @@
           }
         },
         {
-          "id": "mods:netherportalfix-forge-1.20-13.0.1",
+          "id": "mods:netherportalfix:13.0.1",
           "name": "netherportalfix-forge-1.20-13.0.1",
           "type": "ForgeMod",
           "artifact": {
@@ -745,7 +745,7 @@
           }
         },
         {
-          "id": "mods:oculus-mc1.20.1-1.8.0",
+          "id": "mods:oculus:1.8.0",
           "name": "oculus-mc1.20.1-1.8.0",
           "type": "ForgeMod",
           "artifact": {
@@ -755,7 +755,7 @@
           }
         },
         {
-          "id": "mods:open-parties-and-claims-forge-1.20.1-0.25.10",
+          "id": "mods:open-parties-and-claims:0.25.10",
           "name": "open-parties-and-claims-forge-1.20.1-0.25.10",
           "type": "ForgeMod",
           "artifact": {
@@ -765,7 +765,7 @@
           }
         },
         {
-          "id": "mods:particular-1.20.1-Forge-1.2.7",
+          "id": "mods:particular:1.2.7",
           "name": "particular-1.20.1-Forge-1.2.7",
           "type": "ForgeMod",
           "artifact": {
@@ -775,7 +775,7 @@
           }
         },
         {
-          "id": "mods:player-animation-lib-forge-1.0.2-rc1+1.20",
+          "id": "mods:player-animation-lib:1.0.2",
           "name": "player-animation-lib-forge-1.0.2-rc1+1.20",
           "type": "ForgeMod",
           "artifact": {
@@ -785,7 +785,7 @@
           }
         },
         {
-          "id": "mods:resourcefullib-forge-1.20.1-2.1.29",
+          "id": "mods:resourcefullib:2.1.29",
           "name": "resourcefullib-forge-1.20.1-2.1.29",
           "type": "ForgeMod",
           "artifact": {
@@ -795,7 +795,7 @@
           }
         },
         {
-          "id": "mods:setworldspawnpoint-1.20.1-3.5",
+          "id": "mods:setworldspawnpoint:3.5",
           "name": "setworldspawnpoint-1.20.1-3.5",
           "type": "ForgeMod",
           "artifact": {
@@ -805,7 +805,7 @@
           }
         },
         {
-          "id": "mods:shangrimc-1.0.2-forge-1.20.2",
+          "id": "mods:shangrimc-mod:1.0.2",
           "name": "shangrimc-1.0.2-forge-1.20.2",
           "type": "ForgeMod",
           "artifact": {
@@ -815,7 +815,7 @@
           }
         },
         {
-          "id": "mods:skinlayers3d-forge-1.11.0-mc1.20.1",
+          "id": "mods:skinlayers3d:1.11.0",
           "name": "skinlayers3d-forge-1.11.0-mc1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -825,7 +825,7 @@
           }
         },
         {
-          "id": "mods:sodiumdynamiclights-forge-1.0.10-1.20.1",
+          "id": "mods:sodiumdynamiclights:1.0.10",
           "name": "sodiumdynamiclights-forge-1.0.10-1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -835,7 +835,7 @@
           }
         },
         {
-          "id": "mods:sound-physics-remastered-forge-1.20.1-1.4.10",
+          "id": "mods:sound-physics-remastered:1.4.10",
           "name": "sound-physics-remastered-forge-1.20.1-1.4.10",
           "type": "ForgeMod",
           "artifact": {
@@ -845,7 +845,7 @@
           }
         },
         {
-          "id": "mods:tidal-towns-1.3.4",
+          "id": "mods:tidal-towns:1.3.4",
           "name": "tidal-towns-1.3.4",
           "type": "ForgeMod",
           "artifact": {
@@ -855,7 +855,7 @@
           }
         },
         {
-          "id": "mods:too_many_bows-forge-4.0.1",
+          "id": "mods:too-many-bows:4.0.1",
           "name": "too_many_bows-forge-4.0.1",
           "type": "ForgeMod",
           "artifact": {
@@ -865,7 +865,7 @@
           }
         },
         {
-          "id": "mods:travelersbackpack-forge-1.20.1-9.1.53",
+          "id": "mods:travelersbackpack:9.1.53",
           "name": "travelersbackpack-forge-1.20.1-9.1.53",
           "type": "ForgeMod",
           "artifact": {
@@ -875,7 +875,7 @@
           }
         },
         {
-          "id": "mods:txnilib-forge-1.0.24-1.20.1",
+          "id": "mods:txnilib:1.0.24",
           "name": "txnilib-forge-1.0.24-1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -885,7 +885,7 @@
           }
         },
         {
-          "id": "mods:voicechat-forge-1.20.1-2.6.14",
+          "id": "mods:voicechat:2.6.14",
           "name": "voicechat-forge-1.20.1-2.6.14",
           "type": "ForgeMod",
           "artifact": {
@@ -895,7 +895,7 @@
           }
         },
         {
-          "id": "mods:waystones-forge-1.20.1-14.1.20",
+          "id": "mods:waystones:14.1.20",
           "name": "waystones-forge-1.20.1-14.1.20",
           "type": "ForgeMod",
           "artifact": {
@@ -905,7 +905,7 @@
           }
         },
         {
-          "id": "mods:weaponmaster_ydm-forge-1.20.1-4.2.3",
+          "id": "mods:weaponmaster-ydm:4.2.3",
           "name": "weaponmaster_ydm-forge-1.20.1-4.2.3",
           "type": "ForgeMod",
           "artifact": {
@@ -915,7 +915,7 @@
           }
         },
         {
-          "id": "mods:worldedit-mod-7.2.15",
+          "id": "mods:worldedit:7.2.15",
           "name": "worldedit-mod-7.2.15",
           "type": "ForgeMod",
           "artifact": {
@@ -925,7 +925,7 @@
           }
         },
         {
-          "id": "mods:worldguard-bukkit-7.0.9-dist",
+          "id": "mods:worldguard:7.0.9",
           "name": "worldguard-bukkit-7.0.9-dist",
           "type": "ForgeMod",
           "artifact": {
@@ -935,7 +935,7 @@
           }
         },
         {
-          "id": "mods:xaeroworldmap-forge-1.20.1-1.40.11",
+          "id": "mods:xaeroworldmap:1.40.11",
           "name": "xaeroworldmap-forge-1.20.1-1.40.11",
           "type": "ForgeMod",
           "artifact": {
@@ -945,7 +945,7 @@
           }
         },
         {
-          "id": "mods:xenon-0.3.31+mc1.20.1",
+          "id": "mods:xenon:0.3.31",
           "name": "xenon-0.3.31+mc1.20.1",
           "type": "ForgeMod",
           "artifact": {
