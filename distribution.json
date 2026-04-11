@@ -37,8 +37,8 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 17035,
-                "MD5": "52ac5cd1ea8e07d746fec37da96e0abb",
+                "size": 17118,
+                "MD5": "fd88e391b4e4117e0c81e8db3044efe3",
                 "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/forge-1.20.1-47.4.20-version.json"
               }
             }
