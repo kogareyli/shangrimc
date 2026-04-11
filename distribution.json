@@ -2,14 +2,14 @@
   "version": "1.0.0",
   "discord": {
     "clientId": "1086936373057040395",
-    "smallImageText": "Shangri MC",
+    "smallImageText": "ShangriMC",
     "smallImageKey": "big"
   },
   "servers": [
     {
       "id": "ShangriMC-1.20.1-Forge",
-      "name": "Shangri MC",
-      "description": "Minecraft 1.20.1 Forge 47.4.20 — Frontier Edition",
+      "name": "ShangriMC",
+      "description": "ShangriMC \u2014 Minecraft 1.20.1 Forge 47.4.20",
       "version": "1.0.0",
       "address": "TON-IP:25565",
       "minecraftVersion": "1.20.1",
@@ -18,7 +18,7 @@
       "discord": {
         "shortId": "ShangriMC",
         "largeImageKey": "big",
-        "largeImageText": "Shangri MC — Forge 1.20.1"
+        "largeImageText": "ShangriMC \u2014 Forge 1.20.1"
       },
       "modules": [
         {
@@ -37,922 +37,922 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 17118,
-                "MD5": "fd88e391b4e4117e0c81e8db3044efe3",
+                "size": 16629,
+                "MD5": "dd06467aeca7d80405e1f1cb4531d555",
                 "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/forge-1.20.1-47.4.20-version.json"
+              }
+            },
+            {
+              "id": "mods:ai-improvements:1.20-0.5.2",
+              "name": "AI-Improvements-1.20-0.5.2",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 29553,
+                "MD5": "9a6776ce2deab597d198e8755daa56ff",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/AI-Improvements-1.20-0.5.2.jar"
+              }
+            },
+            {
+              "id": "mods:apotheosis:1.20.1-7.4.8",
+              "name": "Apotheosis-1.20.1-7.4.8",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 2803994,
+                "MD5": "db02304c99d20ff51d4c2427d33c9044",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Apotheosis-1.20.1-7.4.8.jar"
+              }
+            },
+            {
+              "id": "mods:apothicattributes:1.20.1-1.3.7",
+              "name": "ApothicAttributes-1.20.1-1.3.7",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 227511,
+                "MD5": "d4f8d1945416d5150cd67d27469b5ce9",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ApothicAttributes-1.20.1-1.3.7.jar"
+              }
+            },
+            {
+              "id": "mods:auroras:1.20.1-1.6.2",
+              "name": "Auroras-1.20.1-1.6.2",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 2119153,
+                "MD5": "7fff40d58f53aea9c9767ca8b0d0efd3",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Auroras-1.20.1-1.6.2.jar"
+              }
+            },
+            {
+              "id": "mods:autosave:1.0",
+              "name": "AutoSave-1.0",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 5298,
+                "MD5": "e0eac20e0001e556747851bee2ad4a9b",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/AutoSave-1.0.jar"
+              }
+            },
+            {
+              "id": "mods:croptopia:1.20.1-FORGE-3.0.4",
+              "name": "Croptopia-1.20.1-FORGE-3.0.4",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 2099945,
+                "MD5": "c7c4e6f0ff51507ad64544991dfc7454",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Croptopia-1.20.1-FORGE-3.0.4.jar"
+              }
+            },
+            {
+              "id": "mods:croptopiaadditions:1.20.1-FORGE-2.4",
+              "name": "CroptopiaAdditions-1.20.1-FORGE-2.4",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 85534,
+                "MD5": "f7be42cb017afc521a70c834051aec24",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/CroptopiaAdditions-1.20.1-FORGE-2.4.jar"
+              }
+            },
+            {
+              "id": "mods:customplayermodels:1.20-0.6.25a",
+              "name": "CustomPlayerModels-1.20-0.6.25a",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 2792497,
+                "MD5": "1131bc0fdee0eb51087955822128b271",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/CustomPlayerModels-1.20-0.6.25a.jar"
+              }
+            },
+            {
+              "id": "mods:dungeonsarisesevenseas:1.20.x-1.0.2-forge",
+              "name": "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 248169,
+                "MD5": "7438cb3ec55972c670e83effa52f8668",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar"
+              }
+            },
+            {
+              "id": "mods:dustydecorations:1.20.1Forge-V1.12.1",
+              "name": "DustyDecorations_1.20.1Forge_V1.12.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 4944791,
+                "MD5": "49990abad9da0701bf36d5b6285e9603",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/DustyDecorations_1.20.1Forge_V1.12.1.jar"
+              }
+            },
+            {
+              "id": "mods:epherolib:1.20.1-FORGE-1.2.0",
+              "name": "EpheroLib-1.20.1-FORGE-1.2.0",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 756864,
+                "MD5": "f8b4d202f3fc4ffaf1bb8efd79f860bd",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/EpheroLib-1.20.1-FORGE-1.2.0.jar"
+              }
+            },
+            {
+              "id": "mods:glitchcore-forge:1.20.1-0.0.1.1",
+              "name": "GlitchCore-forge-1.20.1-0.0.1.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 87550,
+                "MD5": "6d24b09db12acdab40437a1929259352",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+              }
+            },
+            {
+              "id": "mods:immersiveui-forge:0.3.0",
+              "name": "ImmersiveUI-FORGE-0.3.0",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 401514,
+                "MD5": "e92dc07b69814d6116a160f4ee3f08d5",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ImmersiveUI-FORGE-0.3.0.jar"
+              }
+            },
+            {
+              "id": "mods:luckperms-forge:5.4.102",
+              "name": "LuckPerms-Forge-5.4.102",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1398478,
+                "MD5": "1f1d23fbf1b5ab2a1b28054a278cfa19",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/LuckPerms-Forge-5.4.102.jar"
+              }
+            },
+            {
+              "id": "mods:octolib-forge:0.5.0.1-1.20.1",
+              "name": "OctoLib-FORGE-0.5.0.1+1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 424035,
+                "MD5": "6b2fd012966b13a96ce4f68ae42eab8c",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:parcool:1.20.1-3.4.3.3",
+              "name": "ParCool-1.20.1-3.4.3.3",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1154052,
+                "MD5": "78a00ab4b122b8fdeb70ace9db397c27",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ParCool-1.20.1-3.4.3.3.jar"
+              }
+            },
+            {
+              "id": "mods:perception-forge:0.1.4-1.20.1",
+              "name": "Perception-FORGE-0.1.4+1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 70069,
+                "MD5": "7a14c317f9c361d3cca18ce3d130cb45",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Perception-FORGE-0.1.4%2B1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:placebo:1.20.1-8.6.3",
+              "name": "Placebo-1.20.1-8.6.3",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 282474,
+                "MD5": "13133ab9989e8474931cd7a86bd19cc5",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Placebo-1.20.1-8.6.3.jar"
+              }
+            },
+            {
+              "id": "mods:regionsunexploredforge:0.5.6-1.20.1",
+              "name": "RegionsUnexploredForge-0.5.6+1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 5726781,
+                "MD5": "82c3073f606044e7b56d432d324ca480",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/RegionsUnexploredForge-0.5.6%2B1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:structory:1.20.x-v1.3.5",
+              "name": "Structory_1.20.x_v1.3.5",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1286460,
+                "MD5": "2cd1485d84e6ba105677ce8423ff83ed",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Structory_1.20.x_v1.3.5.jar"
+              }
+            },
+            {
+              "id": "mods:terrablender-forge:1.20.1-3.0.1.10",
+              "name": "TerraBlender-forge-1.20.1-3.0.1.10",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 107532,
+                "MD5": "9d8e305b95ae5a8f7b446d6346324267",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+              }
+            },
+            {
+              "id": "mods:terralith:1.20.x-v2.5.4",
+              "name": "Terralith_1.20.x_v2.5.4",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 3156901,
+                "MD5": "b143cfd648086c68d7f47a86b8994ee3",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Terralith_1.20.x_v2.5.4.jar"
+              }
+            },
+            {
+              "id": "mods:yungsapi:1.20-Forge-4.0.6",
+              "name": "YungsApi-1.20-Forge-4.0.6",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 370524,
+                "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/YungsApi-1.20-Forge-4.0.6.jar"
+              }
+            },
+            {
+              "id": "mods:yungsbetterdeserttemples:1.20-Forge-3.0.3",
+              "name": "YungsBetterDesertTemples-1.20-Forge-3.0.3",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 918012,
+                "MD5": "183e2c817e9094ce215c9e70c114825f",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"
+              }
+            },
+            {
+              "id": "mods:aestheticwindows:1.20.1-forge-v2.0.1",
+              "name": "aestheticwindows-1.20.1_forge_v2.0.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 9800783,
+                "MD5": "cefc5241bb41c6e0c144a1c52fc014f4",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/aestheticwindows-1.20.1_forge_v2.0.1.jar"
+              }
+            },
+            {
+              "id": "mods:alcocraftplus:1.20-2.1.0-forge",
+              "name": "alcocraftplus-1.20-2.1.0-forge",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 280211,
+                "MD5": "8da6a2bfe1c143d0956ea2a52a3c5d48",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/alcocraftplus-1.20-2.1.0-forge.jar"
+              }
+            },
+            {
+              "id": "mods:architectury:9.2.14-forge",
+              "name": "architectury-9.2.14-forge",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 580602,
+                "MD5": "76b40d407b6bf0257dd1dab6d3d395d5",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/architectury-9.2.14-forge.jar"
+              }
+            },
+            {
+              "id": "mods:armourersworkshop-forge:1.20.1-3.2.7-beta",
+              "name": "armourersworkshop-forge-1.20.1-3.2.7-beta",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 5904485,
+                "MD5": "24414e0c8a6cfef7bfa3ac7ab653cc14",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/armourersworkshop-forge-1.20.1-3.2.7-beta.jar"
+              }
+            },
+            {
+              "id": "mods:artifacts-forge:9.5.16",
+              "name": "artifacts-forge-9.5.16",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 850457,
+                "MD5": "85081468e7498005f5dfdab2ae520097",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/artifacts-forge-9.5.16.jar"
+              }
+            },
+            {
+              "id": "mods:balm-forge:1.20.1-7.3.38-all",
+              "name": "balm-forge-1.20.1-7.3.38-all",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 591397,
+                "MD5": "499467bc8050be8893b08995438cc026",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/balm-forge-1.20.1-7.3.38-all.jar"
+              }
+            },
+            {
+              "id": "mods:bettercombat-forge:1.9.0-1.20.1",
+              "name": "bettercombat-forge-1.9.0+1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1054339,
+                "MD5": "b288dabeb411ef564a660a56e60962c6",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/bettercombat-forge-1.9.0%2B1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:betterfruits:0.1-forge-1.20.1",
+              "name": "betterfruits-0.1-forge-1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 304894,
+                "MD5": "dfab00fb687c18479c20f51d07444bf1",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/betterfruits-0.1-forge-1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:biomemusic:1.20.1-3.5",
+              "name": "biomemusic-1.20.1-3.5",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 35324,
+                "MD5": "9691af3d668facb52add2199bd2fb6db",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/biomemusic-1.20.1-3.5.jar"
+              }
+            },
+            {
+              "id": "mods:blossom:1.0",
+              "name": "blossom",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 7029,
+                "MD5": "8a4c5048ab839f71a1620902f9ff5c90",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/blossom.jar"
+              }
+            },
+            {
+              "id": "mods:celestisynth:1.20.1-1.3.4-all",
+              "name": "celestisynth-1.20.1-1.3.4-all",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 2664860,
+                "MD5": "2e8bfaceac66caad9a7750e4f2c5b8b0",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/celestisynth-1.20.1-1.3.4-all.jar"
+              }
+            },
+            {
+              "id": "mods:citadel:2.6.3-1.20.1",
+              "name": "citadel-2.6.3-1.20.1(1)",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 3185275,
+                "MD5": "da80c09b998d829b6d580e5be76dcc7b",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/citadel-2.6.3-1.20.1(1).jar"
+              }
+            },
+            {
+              "id": "mods:cloth-config:11.1.136-forge",
+              "name": "cloth-config-11.1.136-forge",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1181413,
+                "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/cloth-config-11.1.136-forge.jar"
+              }
+            },
+            {
+              "id": "mods:collective:1.20.1-8.13",
+              "name": "collective-1.20.1-8.13",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 665169,
+                "MD5": "abe112af460bf8befe26605a5e4c4248",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/collective-1.20.1-8.13.jar"
+              }
+            },
+            {
+              "id": "mods:cupboard:1.20.1-3.5",
+              "name": "cupboard-1.20.1-3.5",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 29505,
+                "MD5": "dd9374715d8879fab601e7c07c807811",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/cupboard-1.20.1-3.5.jar"
+              }
+            },
+            {
+              "id": "mods:curios-forge:5.14.1-1.20.1",
+              "name": "curios-forge-5.14.1+1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 398066,
+                "MD5": "2fdcc97cbc66c4b2492b407c792e7159",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/curios-forge-5.14.1%2B1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:decorative-blocks-forge:1.20.1-4.1.3",
+              "name": "decorative_blocks-forge-1.20.1-4.1.3",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 573928,
+                "MD5": "3ccc7e414c9de806448d94eef399cfd7",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/decorative_blocks-forge-1.20.1-4.1.3.jar"
+              }
+            },
+            {
+              "id": "mods:easy-npc-forge:1.20.1-6.11.0",
+              "name": "easy_npc-forge-1.20.1-6.11.0",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1947786,
+                "MD5": "6c7bf210e965fe4570549793ccbf0c80",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/easy_npc-forge-1.20.1-6.11.0.jar"
+              }
+            },
+            {
+              "id": "mods:easy-npc-bundle-forge:1.20.1-6.11.0",
+              "name": "easy_npc_bundle-forge-1.20.1-6.11.0",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 25442,
+                "MD5": "336e844cfb96f00b77966b933e2ac3da",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/easy_npc_bundle-forge-1.20.1-6.11.0.jar"
+              }
+            },
+            {
+              "id": "mods:easy-npc-config-ui-forge:1.20.1-6.11.0",
+              "name": "easy_npc_config_ui-forge-1.20.1-6.11.0",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 742082,
+                "MD5": "bfe1be4d6c1101ba0679d5d2e81b9ccb",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/easy_npc_config_ui-forge-1.20.1-6.11.0.jar"
+              }
+            },
+            {
+              "id": "mods:ecologics-forge:1.20.1-2.2.4",
+              "name": "ecologics-forge-1.20.1-2.2.4",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1828904,
+                "MD5": "9263661a799e44144d390aba0fffa8bf",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ecologics-forge-1.20.1-2.2.4.jar"
+              }
+            },
+            {
+              "id": "mods:enhanced-boss-bars:1.20.1-1.0.0",
+              "name": "enhanced_boss_bars-1.20.1-1.0.0",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 254629,
+                "MD5": "26cdbb61d5d8b0d91584f5f4ca233237",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/enhanced_boss_bars-1.20.1-1.0.0.jar"
+              }
+            },
+            {
+              "id": "mods:epic-x-parcool-forge:20.12.0.1-1.20.1",
+              "name": "epic x parcool-forge-20.12.0.1-1.20.1(1)",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 408094,
+                "MD5": "234ac4956426cead70f880daa5496e28",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/epic%20x%20parcool-forge-20.12.0.1-1.20.1(1).jar"
+              }
+            },
+            {
+              "id": "mods:epic-fight:20.14.14-mc1.20.1-forge",
+              "name": "epic-fight-20.14.14-mc1.20.1-forge",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 8115133,
+                "MD5": "d1ffe0861f69c7cb55e13208e3de2a52",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/epic-fight-20.14.14-mc1.20.1-forge.jar"
+              }
+            },
+            {
+              "id": "mods:fancymenu-forge:2.14.7-3-MC-1.20",
+              "name": "fancymenu_forge_2.14.7-3_MC_1.20",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1305789,
+                "MD5": "9e94764c8c61064734380db595040477",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/fancymenu_forge_2.14.7-3_MC_1.20.jar"
+              }
+            },
+            {
+              "id": "mods:fantasy-armor-forge:1.2.3-1.20.1",
+              "name": "fantasy_armor-forge-1.2.3-1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 544810,
+                "MD5": "9cbf5db968f5a261198a8910b6b60956",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/fantasy_armor-forge-1.2.3-1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:ferritecore:6.0.1-forge",
+              "name": "ferritecore-6.0.1-forge",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 123034,
+                "MD5": "f52f538207a4829d7060550092ce2383",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ferritecore-6.0.1-forge.jar"
+              }
+            },
+            {
+              "id": "mods:ftb-library-forge:2001.2.12",
+              "name": "ftb-library-forge-2001.2.12",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 780523,
+                "MD5": "8bbd067159587d80f1c5286ea52e567b",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ftb-library-forge-2001.2.12.jar"
+              }
+            },
+            {
+              "id": "mods:ftb-quests-forge:2001.4.18",
+              "name": "ftb-quests-forge-2001.4.18",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1251902,
+                "MD5": "f11b0003c47151a1d131dddf35a4530f",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ftb-quests-forge-2001.4.18.jar"
+              }
+            },
+            {
+              "id": "mods:ftb-teams-forge:2001.3.2",
+              "name": "ftb-teams-forge-2001.3.2",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 252579,
+                "MD5": "1c547d6f1b22f461f84c5fb79067b0ec",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ftb-teams-forge-2001.3.2.jar"
+              }
+            },
+            {
+              "id": "mods:ftb-xmod-compat-forge:2.1.3",
+              "name": "ftb-xmod-compat-forge-2.1.3",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 129725,
+                "MD5": "6d01bd4bc73c6ce36d0d91c56bb27772",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ftb-xmod-compat-forge-2.1.3.jar"
+              }
+            },
+            {
+              "id": "mods:geckolib-forge:1.20.1-4.8.3",
+              "name": "geckolib-forge-1.20.1-4.8.3",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1039046,
+                "MD5": "33b0f8fe0a8d59fcf9d4e222741ecba7",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/geckolib-forge-1.20.1-4.8.3.jar"
+              }
+            },
+            {
+              "id": "mods:handcrafted-forge:1.20.1-3.0.6",
+              "name": "handcrafted-forge-1.20.1-3.0.6",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 7111059,
+                "MD5": "a5291f94fc830a80d2caf7d2ab7cd4fd",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/handcrafted-forge-1.20.1-3.0.6.jar"
+              }
+            },
+            {
+              "id": "mods:immersivelanterns-forge:1.0.6-1.20.1",
+              "name": "immersivelanterns-forge-1.0.6-1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 367298,
+                "MD5": "72b6415358f9751e4316338d8f9d2622",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/immersivelanterns-forge-1.0.6-1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:jei:1.20.1-forge-15.20.0.129",
+              "name": "jei-1.20.1-forge-15.20.0.129",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1409642,
+                "MD5": "a5192227a15e0fe0e367828b32c1f472",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/jei-1.20.1-forge-15.20.0.129.jar"
+              }
+            },
+            {
+              "id": "mods:konkrete-forge:1.8.0-MC-1.20-1.20.1",
+              "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 625185,
+                "MD5": "d69107c593e361e1b7b96733250bd098",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:letsdo-api-forge:1.2.15-forge",
+              "name": "letsdo-API-forge-1.2.15-forge",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1440591,
+                "MD5": "82d392dd5ef6064d8988592a35b3b403",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/letsdo-API-forge-1.2.15-forge.jar"
+              }
+            },
+            {
+              "id": "mods:letsdo-bakery-forge:1.1.15",
+              "name": "letsdo-bakery-forge-1.1.15",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1539376,
+                "MD5": "c1ea271f8ea61df80a37010e32d9e08f",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/letsdo-bakery-forge-1.1.15.jar"
+              }
+            },
+            {
+              "id": "mods:letsdo-brewery-forge:1.1.9",
+              "name": "letsdo-brewery-forge-1.1.9",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 2228646,
+                "MD5": "74574ee4a0d8303f37ced2a8bc846584",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/letsdo-brewery-forge-1.1.9.jar"
+              }
+            },
+            {
+              "id": "mods:letsdo-furniture-forge:1.0.4",
+              "name": "letsdo-furniture-forge-1.0.4",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 2816299,
+                "MD5": "5e335eb9a539cb96b9c7a6f26bc752c1",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/letsdo-furniture-forge-1.0.4.jar"
+              }
+            },
+            {
+              "id": "mods:lionfishapi:2.4-Fix",
+              "name": "lionfishapi-2.4-Fix",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 162767,
+                "MD5": "81efd7c198c3c7036c77c79cae764ed4",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/lionfishapi-2.4-Fix.jar"
+              }
+            },
+            {
+              "id": "mods:lukis-grand-capitals:1.1.3",
+              "name": "lukis-grand-capitals-1.1.3",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 9037598,
+                "MD5": "52b4bf12f992e8255cb75f749d240697",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/lukis-grand-capitals-1.1.3.jar"
+              }
+            },
+            {
+              "id": "mods:mcw-lights:1.1.5-mc1.20.1forge",
+              "name": "mcw-lights-1.1.5-mc1.20.1forge",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 547779,
+                "MD5": "4d8aedce71e2963976d710ac1798b82b",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/mcw-lights-1.1.5-mc1.20.1forge.jar"
+              }
+            },
+            {
+              "id": "mods:mcw-mcwfences:1.2.1-mc1.20.1forge",
+              "name": "mcw-mcwfences-1.2.1-mc1.20.1forge",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 708634,
+                "MD5": "33f30e1ad2474fe8836e85271799ecb7",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/mcw-mcwfences-1.2.1-mc1.20.1forge.jar"
+              }
+            },
+            {
+              "id": "mods:modernfix-forge:5.26.2-mc1.20.1",
+              "name": "modernfix-forge-5.26.2+mc1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 826829,
+                "MD5": "61332114c9c317080faaf35f8183d67b",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/modernfix-forge-5.26.2%2Bmc1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:netherportalfix-forge:1.20-13.0.1",
+              "name": "netherportalfix-forge-1.20-13.0.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 217831,
+                "MD5": "f5efd2c259b0538da0f62bb2d9dc2106",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/netherportalfix-forge-1.20-13.0.1.jar"
+              }
+            },
+            {
+              "id": "mods:oculus-mc1.20.1:1.8.0",
+              "name": "oculus-mc1.20.1-1.8.0",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 2851119,
+                "MD5": "1dd891634ac21591b5a692471f112572",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/oculus-mc1.20.1-1.8.0.jar"
+              }
+            },
+            {
+              "id": "mods:open-parties-and-claims-forge:1.20.1-0.25.10",
+              "name": "open-parties-and-claims-forge-1.20.1-0.25.10",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1319858,
+                "MD5": "6093d4cd5f591cd280e58b3af65089f9",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/open-parties-and-claims-forge-1.20.1-0.25.10.jar"
+              }
+            },
+            {
+              "id": "mods:particular:1.20.1-Forge-1.2.7",
+              "name": "particular-1.20.1-Forge-1.2.7",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 420332,
+                "MD5": "de5105497a7fa79ab099a592879ef260",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/particular-1.20.1-Forge-1.2.7.jar"
+              }
+            },
+            {
+              "id": "mods:player-animation-lib-forge:1.0.2-rc1-1.20",
+              "name": "player-animation-lib-forge-1.0.2-rc1+1.20",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 181437,
+                "MD5": "46f8554181d4d240075ea4919d01fd01",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
+              }
+            },
+            {
+              "id": "mods:resourcefullib-forge:1.20.1-2.1.29",
+              "name": "resourcefullib-forge-1.20.1-2.1.29",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 432753,
+                "MD5": "a040c6cc86f653fddf280ff3af9068f0",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/resourcefullib-forge-1.20.1-2.1.29.jar"
+              }
+            },
+            {
+              "id": "mods:setworldspawnpoint:1.20.1-3.5",
+              "name": "setworldspawnpoint-1.20.1-3.5",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 28040,
+                "MD5": "44798b241627007832cc74561be1035a",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/setworldspawnpoint-1.20.1-3.5.jar"
+              }
+            },
+            {
+              "id": "mods:shangrimc:1.0.2-forge-1.20.2",
+              "name": "shangrimc-1.0.2-forge-1.20.2",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 860263,
+                "MD5": "be4aab2c9e4738af148b7c1f113336fc",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/shangrimc-1.0.2-forge-1.20.2.jar"
+              }
+            },
+            {
+              "id": "mods:skinlayers3d-forge:1.11.0-mc1.20.1",
+              "name": "skinlayers3d-forge-1.11.0-mc1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 2163516,
+                "MD5": "fc5c09c66c5320ae05ef49bb37e06830",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/skinlayers3d-forge-1.11.0-mc1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:sodiumdynamiclights-forge:1.0.10-1.20.1",
+              "name": "sodiumdynamiclights-forge-1.0.10-1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 511601,
+                "MD5": "687c18cefa558ca8101ef97914d9ba6b",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:sound-physics-remastered-forge:1.20.1-1.4.10",
+              "name": "sound-physics-remastered-forge-1.20.1-1.4.10",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 203819,
+                "MD5": "499b9f228dbeafdf5ca499d1d3c84d5e",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar"
+              }
+            },
+            {
+              "id": "mods:tidal-towns:1.3.4",
+              "name": "tidal-towns-1.3.4",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 110098,
+                "MD5": "3e0b71a61aa857a9a851a1786f07ae73",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/tidal-towns-1.3.4.jar"
+              }
+            },
+            {
+              "id": "mods:too-many-bows-forge:4.0.1",
+              "name": "too_many_bows-forge-4.0.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 999793,
+                "MD5": "835444e5626562501fea58fff9770655",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/too_many_bows-forge-4.0.1.jar"
+              }
+            },
+            {
+              "id": "mods:travelersbackpack-forge:1.20.1-9.1.53",
+              "name": "travelersbackpack-forge-1.20.1-9.1.53",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1358125,
+                "MD5": "384de4c59b7cc3418c9893fe78326ddb",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/travelersbackpack-forge-1.20.1-9.1.53.jar"
+              }
+            },
+            {
+              "id": "mods:txnilib-forge:1.0.24-1.20.1",
+              "name": "txnilib-forge-1.0.24-1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 3743339,
+                "MD5": "31823d0999fda413af6dc226481e404a",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/txnilib-forge-1.0.24-1.20.1.jar"
+              }
+            },
+            {
+              "id": "mods:voicechat-forge:1.20.1-2.6.14",
+              "name": "voicechat-forge-1.20.1-2.6.14",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 4895899,
+                "MD5": "ace539c20d8fbf5d3c4a3c13d4c07b10",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/voicechat-forge-1.20.1-2.6.14.jar"
+              }
+            },
+            {
+              "id": "mods:waystones-forge:1.20.1-14.1.20",
+              "name": "waystones-forge-1.20.1-14.1.20",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 533738,
+                "MD5": "eb4dcdc36470b7fd858c39547ad1c7d2",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/waystones-forge-1.20.1-14.1.20.jar"
+              }
+            },
+            {
+              "id": "mods:weaponmaster-ydm-forge:1.20.1-4.2.3",
+              "name": "weaponmaster_ydm-forge-1.20.1-4.2.3",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 283977,
+                "MD5": "d8cbfa36266a62b13e087e6ed4fc94d5",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar"
+              }
+            },
+            {
+              "id": "mods:worldedit-mod:7.2.15",
+              "name": "worldedit-mod-7.2.15",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 5825402,
+                "MD5": "bd0e7cff7896348faab92e43300d0639",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/worldedit-mod-7.2.15.jar"
+              }
+            },
+            {
+              "id": "mods:worldguard-bukkit:7.0.9-dist",
+              "name": "worldguard-bukkit-7.0.9-dist",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1167465,
+                "MD5": "70d6418dd6a2e4492a9f18e5f9ecb10c",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/worldguard-bukkit-7.0.9-dist.jar"
+              }
+            },
+            {
+              "id": "mods:xaeroworldmap-forge:1.20.1-1.40.11",
+              "name": "xaeroworldmap-forge-1.20.1-1.40.11",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 1388342,
+                "MD5": "d8624a1b587fbcd28d8f5dc5b13399d4",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/xaeroworldmap-forge-1.20.1-1.40.11.jar"
+              }
+            },
+            {
+              "id": "mods:xenon:0.3.31-mc1.20.1",
+              "name": "xenon-0.3.31+mc1.20.1",
+              "type": "ForgeMod",
+              "artifact": {
+                "size": 2093415,
+                "MD5": "41ca035046ec01bd29a879be036a4560",
+                "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/xenon-0.3.31%2Bmc1.20.1.jar"
               }
             }
           ]
-        },
-        {
-          "id": "mods:ai-improvements:0.5.2",
-          "name": "AI-Improvements-1.20-0.5.2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 29553,
-            "MD5": "9a6776ce2deab597d198e8755daa56ff",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/AI-Improvements-1.20-0.5.2.jar"
-          }
-        },
-        {
-          "id": "mods:apotheosis:7.4.8",
-          "name": "Apotheosis-1.20.1-7.4.8",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2803994,
-            "MD5": "db02304c99d20ff51d4c2427d33c9044",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Apotheosis-1.20.1-7.4.8.jar"
-          }
-        },
-        {
-          "id": "mods:apothicattributes:1.3.7",
-          "name": "ApothicAttributes-1.20.1-1.3.7",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 227511,
-            "MD5": "d4f8d1945416d5150cd67d27469b5ce9",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ApothicAttributes-1.20.1-1.3.7.jar"
-          }
-        },
-        {
-          "id": "mods:auroras:1.6.2",
-          "name": "Auroras-1.20.1-1.6.2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2119153,
-            "MD5": "7fff40d58f53aea9c9767ca8b0d0efd3",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Auroras-1.20.1-1.6.2.jar"
-          }
-        },
-        {
-          "id": "mods:autosave:1.0",
-          "name": "AutoSave-1.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5298,
-            "MD5": "e0eac20e0001e556747851bee2ad4a9b",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/AutoSave-1.0.jar"
-          }
-        },
-        {
-          "id": "mods:croptopia:3.0.4",
-          "name": "Croptopia-1.20.1-FORGE-3.0.4",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2099945,
-            "MD5": "c7c4e6f0ff51507ad64544991dfc7454",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Croptopia-1.20.1-FORGE-3.0.4.jar"
-          }
-        },
-        {
-          "id": "mods:croptopiaadditions:2.4",
-          "name": "CroptopiaAdditions-1.20.1-FORGE-2.4",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 85534,
-            "MD5": "f7be42cb017afc521a70c834051aec24",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/CroptopiaAdditions-1.20.1-FORGE-2.4.jar"
-          }
-        },
-        {
-          "id": "mods:customplayermodels:0.6.25a",
-          "name": "CustomPlayerModels-1.20-0.6.25a",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2792497,
-            "MD5": "1131bc0fdee0eb51087955822128b271",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/CustomPlayerModels-1.20-0.6.25a.jar"
-          }
-        },
-        {
-          "id": "mods:dungeonsarisesevenseas:1.0.2",
-          "name": "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 248169,
-            "MD5": "7438cb3ec55972c670e83effa52f8668",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar"
-          }
-        },
-        {
-          "id": "mods:dustydecorations:1.12.1",
-          "name": "DustyDecorations_1.20.1Forge_V1.12.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4944791,
-            "MD5": "49990abad9da0701bf36d5b6285e9603",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/DustyDecorations_1.20.1Forge_V1.12.1.jar"
-          }
-        },
-        {
-          "id": "mods:epherolib:1.2.0",
-          "name": "EpheroLib-1.20.1-FORGE-1.2.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 756864,
-            "MD5": "f8b4d202f3fc4ffaf1bb8efd79f860bd",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/EpheroLib-1.20.1-FORGE-1.2.0.jar"
-          }
-        },
-        {
-          "id": "mods:glitchcore:0.0.1.1",
-          "name": "GlitchCore-forge-1.20.1-0.0.1.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 87550,
-            "MD5": "6d24b09db12acdab40437a1929259352",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
-          }
-        },
-        {
-          "id": "mods:immersiveui:0.3.0",
-          "name": "ImmersiveUI-FORGE-0.3.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 401514,
-            "MD5": "e92dc07b69814d6116a160f4ee3f08d5",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ImmersiveUI-FORGE-0.3.0.jar"
-          }
-        },
-        {
-          "id": "mods:luckperms:5.4.102",
-          "name": "LuckPerms-Forge-5.4.102",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1398478,
-            "MD5": "1f1d23fbf1b5ab2a1b28054a278cfa19",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/LuckPerms-Forge-5.4.102.jar"
-          }
-        },
-        {
-          "id": "mods:octolib:0.5.0.1",
-          "name": "OctoLib-FORGE-0.5.0.1+1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 424035,
-            "MD5": "6b2fd012966b13a96ce4f68ae42eab8c",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:parcool:3.4.3.3",
-          "name": "ParCool-1.20.1-3.4.3.3",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1154052,
-            "MD5": "78a00ab4b122b8fdeb70ace9db397c27",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ParCool-1.20.1-3.4.3.3.jar"
-          }
-        },
-        {
-          "id": "mods:perception:0.1.4",
-          "name": "Perception-FORGE-0.1.4+1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 70069,
-            "MD5": "7a14c317f9c361d3cca18ce3d130cb45",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Perception-FORGE-0.1.4%2B1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:placebo:8.6.3",
-          "name": "Placebo-1.20.1-8.6.3",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 282474,
-            "MD5": "13133ab9989e8474931cd7a86bd19cc5",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Placebo-1.20.1-8.6.3.jar"
-          }
-        },
-        {
-          "id": "mods:regionsunexplored:0.5.6",
-          "name": "RegionsUnexploredForge-0.5.6+1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5726781,
-            "MD5": "82c3073f606044e7b56d432d324ca480",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/RegionsUnexploredForge-0.5.6%2B1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:structory:1.3.5",
-          "name": "Structory_1.20.x_v1.3.5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1286460,
-            "MD5": "2cd1485d84e6ba105677ce8423ff83ed",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Structory_1.20.x_v1.3.5.jar"
-          }
-        },
-        {
-          "id": "mods:terrablender:3.0.1.10",
-          "name": "TerraBlender-forge-1.20.1-3.0.1.10",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 107532,
-            "MD5": "9d8e305b95ae5a8f7b446d6346324267",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
-          }
-        },
-        {
-          "id": "mods:terralith:2.5.4",
-          "name": "Terralith_1.20.x_v2.5.4",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3156901,
-            "MD5": "b143cfd648086c68d7f47a86b8994ee3",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/Terralith_1.20.x_v2.5.4.jar"
-          }
-        },
-        {
-          "id": "mods:yungsapi:4.0.6",
-          "name": "YungsApi-1.20-Forge-4.0.6",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 370524,
-            "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/YungsApi-1.20-Forge-4.0.6.jar"
-          }
-        },
-        {
-          "id": "mods:yungsbetterdeserttemples:3.0.3",
-          "name": "YungsBetterDesertTemples-1.20-Forge-3.0.3",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 918012,
-            "MD5": "183e2c817e9094ce215c9e70c114825f",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"
-          }
-        },
-        {
-          "id": "mods:aestheticwindows:2.0.1",
-          "name": "aestheticwindows-1.20.1_forge_v2.0.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9800783,
-            "MD5": "cefc5241bb41c6e0c144a1c52fc014f4",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/aestheticwindows-1.20.1_forge_v2.0.1.jar"
-          }
-        },
-        {
-          "id": "mods:alcocraftplus:2.1.0",
-          "name": "alcocraftplus-1.20-2.1.0-forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 280211,
-            "MD5": "8da6a2bfe1c143d0956ea2a52a3c5d48",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/alcocraftplus-1.20-2.1.0-forge.jar"
-          }
-        },
-        {
-          "id": "mods:architectury:9.2.14",
-          "name": "architectury-9.2.14-forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 580602,
-            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/architectury-9.2.14-forge.jar"
-          }
-        },
-        {
-          "id": "mods:armourersworkshop:3.2.7",
-          "name": "armourersworkshop-forge-1.20.1-3.2.7-beta",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5904485,
-            "MD5": "24414e0c8a6cfef7bfa3ac7ab653cc14",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/armourersworkshop-forge-1.20.1-3.2.7-beta.jar"
-          }
-        },
-        {
-          "id": "mods:artifacts:9.5.16",
-          "name": "artifacts-forge-9.5.16",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 850457,
-            "MD5": "85081468e7498005f5dfdab2ae520097",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/artifacts-forge-9.5.16.jar"
-          }
-        },
-        {
-          "id": "mods:balm:7.3.38",
-          "name": "balm-forge-1.20.1-7.3.38-all",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 591397,
-            "MD5": "499467bc8050be8893b08995438cc026",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/balm-forge-1.20.1-7.3.38-all.jar"
-          }
-        },
-        {
-          "id": "mods:bettercombat:1.9.0",
-          "name": "bettercombat-forge-1.9.0+1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1054339,
-            "MD5": "b288dabeb411ef564a660a56e60962c6",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/bettercombat-forge-1.9.0%2B1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:betterfruits:0.1",
-          "name": "betterfruits-0.1-forge-1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 304894,
-            "MD5": "dfab00fb687c18479c20f51d07444bf1",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/betterfruits-0.1-forge-1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:biomemusic:3.5",
-          "name": "biomemusic-1.20.1-3.5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 35324,
-            "MD5": "9691af3d668facb52add2199bd2fb6db",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/biomemusic-1.20.1-3.5.jar"
-          }
-        },
-        {
-          "id": "mods:blossom:1.0",
-          "name": "blossom",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7029,
-            "MD5": "8a4c5048ab839f71a1620902f9ff5c90",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/blossom.jar"
-          }
-        },
-        {
-          "id": "mods:celestisynth:1.3.4",
-          "name": "celestisynth-1.20.1-1.3.4-all",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2664860,
-            "MD5": "2e8bfaceac66caad9a7750e4f2c5b8b0",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/celestisynth-1.20.1-1.3.4-all.jar"
-          }
-        },
-        {
-          "id": "mods:citadel:2.6.3",
-          "name": "citadel-2.6.3-1.20.1(1)",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3185275,
-            "MD5": "da80c09b998d829b6d580e5be76dcc7b",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/citadel-2.6.3-1.20.1%281%29.jar"
-          }
-        },
-        {
-          "id": "mods:cloth-config:11.1.136",
-          "name": "cloth-config-11.1.136-forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1181413,
-            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/cloth-config-11.1.136-forge.jar"
-          }
-        },
-        {
-          "id": "mods:collective:8.13",
-          "name": "collective-1.20.1-8.13",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 665169,
-            "MD5": "abe112af460bf8befe26605a5e4c4248",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/collective-1.20.1-8.13.jar"
-          }
-        },
-        {
-          "id": "mods:cupboard:3.5",
-          "name": "cupboard-1.20.1-3.5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 29505,
-            "MD5": "dd9374715d8879fab601e7c07c807811",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/cupboard-1.20.1-3.5.jar"
-          }
-        },
-        {
-          "id": "mods:curios:5.14.1",
-          "name": "curios-forge-5.14.1+1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 398066,
-            "MD5": "2fdcc97cbc66c4b2492b407c792e7159",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/curios-forge-5.14.1%2B1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:decorative-blocks:4.1.3",
-          "name": "decorative_blocks-forge-1.20.1-4.1.3",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 573928,
-            "MD5": "3ccc7e414c9de806448d94eef399cfd7",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/decorative_blocks-forge-1.20.1-4.1.3.jar"
-          }
-        },
-        {
-          "id": "mods:easy-npc:6.11.0",
-          "name": "easy_npc-forge-1.20.1-6.11.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1947786,
-            "MD5": "6c7bf210e965fe4570549793ccbf0c80",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/easy_npc-forge-1.20.1-6.11.0.jar"
-          }
-        },
-        {
-          "id": "mods:easy-npc-bundle:6.11.0",
-          "name": "easy_npc_bundle-forge-1.20.1-6.11.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 25442,
-            "MD5": "336e844cfb96f00b77966b933e2ac3da",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/easy_npc_bundle-forge-1.20.1-6.11.0.jar"
-          }
-        },
-        {
-          "id": "mods:easy-npc-config-ui:6.11.0",
-          "name": "easy_npc_config_ui-forge-1.20.1-6.11.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 742082,
-            "MD5": "bfe1be4d6c1101ba0679d5d2e81b9ccb",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/easy_npc_config_ui-forge-1.20.1-6.11.0.jar"
-          }
-        },
-        {
-          "id": "mods:ecologics:2.2.4",
-          "name": "ecologics-forge-1.20.1-2.2.4",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1828904,
-            "MD5": "9263661a799e44144d390aba0fffa8bf",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ecologics-forge-1.20.1-2.2.4.jar"
-          }
-        },
-        {
-          "id": "mods:enhanced-boss-bars:1.0.0",
-          "name": "enhanced_boss_bars-1.20.1-1.0.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 254629,
-            "MD5": "26cdbb61d5d8b0d91584f5f4ca233237",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/enhanced_boss_bars-1.20.1-1.0.0.jar"
-          }
-        },
-        {
-          "id": "mods:epic-x-parcool:20.12.0.1",
-          "name": "epic x parcool-forge-20.12.0.1-1.20.1(1)",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 408094,
-            "MD5": "234ac4956426cead70f880daa5496e28",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/epic%20x%20parcool-forge-20.12.0.1-1.20.1%281%29.jar"
-          }
-        },
-        {
-          "id": "mods:epic-fight:20.14.14",
-          "name": "epic-fight-20.14.14-mc1.20.1-forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 8115133,
-            "MD5": "d1ffe0861f69c7cb55e13208e3de2a52",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/epic-fight-20.14.14-mc1.20.1-forge.jar"
-          }
-        },
-        {
-          "id": "mods:fancymenu:2.14.7",
-          "name": "fancymenu_forge_2.14.7-3_MC_1.20",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1305789,
-            "MD5": "9e94764c8c61064734380db595040477",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/fancymenu_forge_2.14.7-3_MC_1.20.jar"
-          }
-        },
-        {
-          "id": "mods:fantasy-armor:1.2.3",
-          "name": "fantasy_armor-forge-1.2.3-1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 544810,
-            "MD5": "9cbf5db968f5a261198a8910b6b60956",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/fantasy_armor-forge-1.2.3-1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:ferritecore:6.0.1",
-          "name": "ferritecore-6.0.1-forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 123034,
-            "MD5": "f52f538207a4829d7060550092ce2383",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ferritecore-6.0.1-forge.jar"
-          }
-        },
-        {
-          "id": "mods:ftb-library:2001.2.12",
-          "name": "ftb-library-forge-2001.2.12",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 780523,
-            "MD5": "8bbd067159587d80f1c5286ea52e567b",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ftb-library-forge-2001.2.12.jar"
-          }
-        },
-        {
-          "id": "mods:ftb-quests:2001.4.18",
-          "name": "ftb-quests-forge-2001.4.18",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1251902,
-            "MD5": "f11b0003c47151a1d131dddf35a4530f",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ftb-quests-forge-2001.4.18.jar"
-          }
-        },
-        {
-          "id": "mods:ftb-teams:2001.3.2",
-          "name": "ftb-teams-forge-2001.3.2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 252579,
-            "MD5": "1c547d6f1b22f461f84c5fb79067b0ec",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ftb-teams-forge-2001.3.2.jar"
-          }
-        },
-        {
-          "id": "mods:ftb-xmod-compat:2.1.3",
-          "name": "ftb-xmod-compat-forge-2.1.3",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 129725,
-            "MD5": "6d01bd4bc73c6ce36d0d91c56bb27772",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/ftb-xmod-compat-forge-2.1.3.jar"
-          }
-        },
-        {
-          "id": "mods:geckolib:4.8.3",
-          "name": "geckolib-forge-1.20.1-4.8.3",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1039046,
-            "MD5": "33b0f8fe0a8d59fcf9d4e222741ecba7",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/geckolib-forge-1.20.1-4.8.3.jar"
-          }
-        },
-        {
-          "id": "mods:handcrafted:3.0.6",
-          "name": "handcrafted-forge-1.20.1-3.0.6",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7111059,
-            "MD5": "a5291f94fc830a80d2caf7d2ab7cd4fd",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/handcrafted-forge-1.20.1-3.0.6.jar"
-          }
-        },
-        {
-          "id": "mods:immersivelanterns:1.0.6",
-          "name": "immersivelanterns-forge-1.0.6-1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 367298,
-            "MD5": "72b6415358f9751e4316338d8f9d2622",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/immersivelanterns-forge-1.0.6-1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:jei:15.20.0.129",
-          "name": "jei-1.20.1-forge-15.20.0.129",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1409642,
-            "MD5": "a5192227a15e0fe0e367828b32c1f472",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/jei-1.20.1-forge-15.20.0.129.jar"
-          }
-        },
-        {
-          "id": "mods:konkrete:1.8.0",
-          "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 625185,
-            "MD5": "d69107c593e361e1b7b96733250bd098",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:letsdo-api:1.2.15",
-          "name": "letsdo-API-forge-1.2.15-forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1440591,
-            "MD5": "82d392dd5ef6064d8988592a35b3b403",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/letsdo-API-forge-1.2.15-forge.jar"
-          }
-        },
-        {
-          "id": "mods:letsdo-bakery:1.1.15",
-          "name": "letsdo-bakery-forge-1.1.15",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1539376,
-            "MD5": "c1ea271f8ea61df80a37010e32d9e08f",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/letsdo-bakery-forge-1.1.15.jar"
-          }
-        },
-        {
-          "id": "mods:letsdo-brewery:1.1.9",
-          "name": "letsdo-brewery-forge-1.1.9",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2228646,
-            "MD5": "74574ee4a0d8303f37ced2a8bc846584",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/letsdo-brewery-forge-1.1.9.jar"
-          }
-        },
-        {
-          "id": "mods:letsdo-furniture:1.0.4",
-          "name": "letsdo-furniture-forge-1.0.4",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2816299,
-            "MD5": "5e335eb9a539cb96b9c7a6f26bc752c1",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/letsdo-furniture-forge-1.0.4.jar"
-          }
-        },
-        {
-          "id": "mods:lionfishapi:2.4",
-          "name": "lionfishapi-2.4-Fix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 162767,
-            "MD5": "81efd7c198c3c7036c77c79cae764ed4",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/lionfishapi-2.4-Fix.jar"
-          }
-        },
-        {
-          "id": "mods:lukis-grand-capitals:1.1.3",
-          "name": "lukis-grand-capitals-1.1.3",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9037598,
-            "MD5": "52b4bf12f992e8255cb75f749d240697",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/lukis-grand-capitals-1.1.3.jar"
-          }
-        },
-        {
-          "id": "mods:mcw-lights:1.1.5",
-          "name": "mcw-lights-1.1.5-mc1.20.1forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 547779,
-            "MD5": "4d8aedce71e2963976d710ac1798b82b",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/mcw-lights-1.1.5-mc1.20.1forge.jar"
-          }
-        },
-        {
-          "id": "mods:mcw-fences:1.2.1",
-          "name": "mcw-mcwfences-1.2.1-mc1.20.1forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 708634,
-            "MD5": "33f30e1ad2474fe8836e85271799ecb7",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/mcw-mcwfences-1.2.1-mc1.20.1forge.jar"
-          }
-        },
-        {
-          "id": "mods:modernfix:5.26.2",
-          "name": "modernfix-forge-5.26.2+mc1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 826829,
-            "MD5": "61332114c9c317080faaf35f8183d67b",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/modernfix-forge-5.26.2%2Bmc1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:netherportalfix:13.0.1",
-          "name": "netherportalfix-forge-1.20-13.0.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 217831,
-            "MD5": "f5efd2c259b0538da0f62bb2d9dc2106",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/netherportalfix-forge-1.20-13.0.1.jar"
-          }
-        },
-        {
-          "id": "mods:oculus:1.8.0",
-          "name": "oculus-mc1.20.1-1.8.0",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2851119,
-            "MD5": "1dd891634ac21591b5a692471f112572",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/oculus-mc1.20.1-1.8.0.jar"
-          }
-        },
-        {
-          "id": "mods:open-parties-and-claims:0.25.10",
-          "name": "open-parties-and-claims-forge-1.20.1-0.25.10",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1319858,
-            "MD5": "6093d4cd5f591cd280e58b3af65089f9",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/open-parties-and-claims-forge-1.20.1-0.25.10.jar"
-          }
-        },
-        {
-          "id": "mods:particular:1.2.7",
-          "name": "particular-1.20.1-Forge-1.2.7",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 420332,
-            "MD5": "de5105497a7fa79ab099a592879ef260",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/particular-1.20.1-Forge-1.2.7.jar"
-          }
-        },
-        {
-          "id": "mods:player-animation-lib:1.0.2",
-          "name": "player-animation-lib-forge-1.0.2-rc1+1.20",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 181437,
-            "MD5": "46f8554181d4d240075ea4919d01fd01",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
-          }
-        },
-        {
-          "id": "mods:resourcefullib:2.1.29",
-          "name": "resourcefullib-forge-1.20.1-2.1.29",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 432753,
-            "MD5": "a040c6cc86f653fddf280ff3af9068f0",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/resourcefullib-forge-1.20.1-2.1.29.jar"
-          }
-        },
-        {
-          "id": "mods:setworldspawnpoint:3.5",
-          "name": "setworldspawnpoint-1.20.1-3.5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28040,
-            "MD5": "44798b241627007832cc74561be1035a",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/setworldspawnpoint-1.20.1-3.5.jar"
-          }
-        },
-        {
-          "id": "mods:shangrimc-mod:1.0.2",
-          "name": "shangrimc-1.0.2-forge-1.20.2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 860263,
-            "MD5": "be4aab2c9e4738af148b7c1f113336fc",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/shangrimc-1.0.2-forge-1.20.2.jar"
-          }
-        },
-        {
-          "id": "mods:skinlayers3d:1.11.0",
-          "name": "skinlayers3d-forge-1.11.0-mc1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2163516,
-            "MD5": "fc5c09c66c5320ae05ef49bb37e06830",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/skinlayers3d-forge-1.11.0-mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:sodiumdynamiclights:1.0.10",
-          "name": "sodiumdynamiclights-forge-1.0.10-1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 511601,
-            "MD5": "687c18cefa558ca8101ef97914d9ba6b",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:sound-physics-remastered:1.4.10",
-          "name": "sound-physics-remastered-forge-1.20.1-1.4.10",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 203819,
-            "MD5": "499b9f228dbeafdf5ca499d1d3c84d5e",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar"
-          }
-        },
-        {
-          "id": "mods:tidal-towns:1.3.4",
-          "name": "tidal-towns-1.3.4",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 110098,
-            "MD5": "3e0b71a61aa857a9a851a1786f07ae73",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/tidal-towns-1.3.4.jar"
-          }
-        },
-        {
-          "id": "mods:too-many-bows:4.0.1",
-          "name": "too_many_bows-forge-4.0.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 999793,
-            "MD5": "835444e5626562501fea58fff9770655",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/too_many_bows-forge-4.0.1.jar"
-          }
-        },
-        {
-          "id": "mods:travelersbackpack:9.1.53",
-          "name": "travelersbackpack-forge-1.20.1-9.1.53",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1358125,
-            "MD5": "384de4c59b7cc3418c9893fe78326ddb",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/travelersbackpack-forge-1.20.1-9.1.53.jar"
-          }
-        },
-        {
-          "id": "mods:txnilib:1.0.24",
-          "name": "txnilib-forge-1.0.24-1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3743339,
-            "MD5": "31823d0999fda413af6dc226481e404a",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/txnilib-forge-1.0.24-1.20.1.jar"
-          }
-        },
-        {
-          "id": "mods:voicechat:2.6.14",
-          "name": "voicechat-forge-1.20.1-2.6.14",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4895899,
-            "MD5": "ace539c20d8fbf5d3c4a3c13d4c07b10",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/voicechat-forge-1.20.1-2.6.14.jar"
-          }
-        },
-        {
-          "id": "mods:waystones:14.1.20",
-          "name": "waystones-forge-1.20.1-14.1.20",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 533738,
-            "MD5": "eb4dcdc36470b7fd858c39547ad1c7d2",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/waystones-forge-1.20.1-14.1.20.jar"
-          }
-        },
-        {
-          "id": "mods:weaponmaster-ydm:4.2.3",
-          "name": "weaponmaster_ydm-forge-1.20.1-4.2.3",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 283977,
-            "MD5": "d8cbfa36266a62b13e087e6ed4fc94d5",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar"
-          }
-        },
-        {
-          "id": "mods:worldedit:7.2.15",
-          "name": "worldedit-mod-7.2.15",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5825402,
-            "MD5": "bd0e7cff7896348faab92e43300d0639",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/worldedit-mod-7.2.15.jar"
-          }
-        },
-        {
-          "id": "mods:worldguard:7.0.9",
-          "name": "worldguard-bukkit-7.0.9-dist",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1167465,
-            "MD5": "70d6418dd6a2e4492a9f18e5f9ecb10c",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/worldguard-bukkit-7.0.9-dist.jar"
-          }
-        },
-        {
-          "id": "mods:xaeroworldmap:1.40.11",
-          "name": "xaeroworldmap-forge-1.20.1-1.40.11",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1388342,
-            "MD5": "d8624a1b587fbcd28d8f5dc5b13399d4",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/xaeroworldmap-forge-1.20.1-1.40.11.jar"
-          }
-        },
-        {
-          "id": "mods:xenon:0.3.31",
-          "name": "xenon-0.3.31+mc1.20.1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2093415,
-            "MD5": "41ca035046ec01bd29a879be036a4560",
-            "url": "https://raw.githubusercontent.com/kogareyli/shangrimc/master/mods/xenon-0.3.31%2Bmc1.20.1.jar"
-          }
         }
       ]
     }
